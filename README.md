@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DanteTerry](https://github.com/DanteTerry)
 
-- 💬 Ask me about **HTML, CSS,JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **Ay6800618@gmail.com**
 
