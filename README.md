@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DanteTerry](https://github.com/DanteTerry)
 
