@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Dante</h1>
 <h3 align="center">
-  A passionate full stack developer. Bridging the gap between front-end and back-end
-  Republic
+  A passionate Full Stack Developer. <br> "Bridging the gap between Front-end and Back-end"
+  
 </h3>
 
 - 🌱 I’m currently learning **TypeScript** <br> - 👨‍💻 All of my projects are available
