@@ -1,8 +1,7 @@
-github profile markdown generator logo GitHub Profile README Generator Star this
-repo15169 Fork on GitHub4117
+
 <h1 align="center">Hi 👋, I'm Dante</h1>
 <h3 align="center">
-  A passionate frontend developer from India Currently Residing in Czech
+  A passionate full stack developer. Bridging the gap between front-end and back-end
   Republic
 </h3>
 
