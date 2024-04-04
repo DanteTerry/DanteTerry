@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">Passionate Frontend Developer | Crafting Exceptional User Experiences with Love</h4>
+<h4 align="center">Passionate Frontend Developer | Crafting Exceptional User Experiences with Perfection</h4>
 
 ###
 
