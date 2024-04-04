@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"  />
+  <img height="430" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"  />
 </div>
 
 ###
@@ -12,19 +12,23 @@
 
 ###
 
-<p align="left">• 🔭 I’m currently working on <a target="_blank" href="https://github.com/DanteTerry/bitway">Bitway</a></p>
+<h2 align="left">👨🏻‍💻 About Me</h2>
 
 ###
 
-<p align="left">• 🌱 I’m currently learning</p>
+<p align="left">• 🤔   Exploring new technologies and developing software solutions and quick hacks.</p>
 
 ###
 
-<p align="left">• 💬 Ask me about Javascript,React</p>
+<p align="left">• ✍️   Pursuing Web Design and Gaming as hobbies/side hustles.</p>
 
 ###
 
-<p align="left">• 📫 How to reach me</p>
+<p align="left">• 🌱   Learning more about Web, Making Website and Web Apps.</p>
+
+###
+
+<h2 align="left">🛠 Tech Stack</h2>
 
 ###
 
@@ -50,15 +54,13 @@
 
 ###
 
+<h2 align="left">Stats</h2>
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=danteterry&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danteterry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/danteterry/danteterry/output/snake.svg" alt="Snake animation" />
 
 ###
