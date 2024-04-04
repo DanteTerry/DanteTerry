@@ -1,14 +1,14 @@
 <div align="center">
-  <img height="500" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"  />
+  <img height="520" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"  />
 </div>
 
 ###
 
-<h2 align="center">Hi there ! 👋 I'm Arpit Yadav</h2>
+<h1 align="center">Hi there ! 👋 I'm Arpit Yadav</h1>
 
 ###
 
-<p align="center">Passionate Frontend Developer | Crafting Exceptional User Experiences with Love</p>
+<h4 align="center">Passionate Frontend Developer | Crafting Exceptional User Experiences with Love</h4>
 
 ###
 
