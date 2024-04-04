@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">• 🔭 I’m currently working on <a target="_blank" href="bitway.vercel.app">Bitway</a></p>
+<p align="left">• 🔭 I’m currently working on <a target="_blank" href="[bitway.vercel.app](https://github.com/DanteTerry/bitway)">Bitway</a></p>
 
 ###
 
