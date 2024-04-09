@@ -16,15 +16,15 @@
 
 ###
 
-<p align="left">• 🤔   Exploring new technologies and developing software solutions and quick hacks.</p>
+<p align="left">• 🌟 Front-end  enthusiast with a sprinkle of backend.</p>
 
 ###
 
-<p align="left">• ✍️   Pursuing Web Design and Gaming as hobbies/side hustles.</p>
+<p align="left">• 🎨 Crafting visually stunning websites and pushing UX boundaries.</p>
 
 ###
 
-<p align="left">• 🌱   Learning more about Web, Making Website and Web Apps.</p>
+<p align="left">• 🌱 Continuously evolving learner with a passion for growth.</p>
 
 ###
 
